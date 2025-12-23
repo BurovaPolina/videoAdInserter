@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  admerger:
+    build: .
+    volumes:
+      - ./videos:/app/videos
+      - ./configs:/app/configs
+    working_dir: /app
+    command: process --config /app/configs/example_config.json

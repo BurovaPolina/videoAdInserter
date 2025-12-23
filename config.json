@@ -1,0 +1,15 @@
+{
+  "input_video": "C:\\Users\\cds-s\\PycharmProjects\\video_ad_inserter\\media\\5114452_Workteam_Working_Team_1280x720.mp4",
+  "ads": [
+    {
+      "ad_file": "C:\\Users\\cds-s\\PycharmProjects\\video_ad_inserter\\media\\0_Galaxy_Spiral_Galaxy_1280x720.mp4",
+      "insert_time": 3.6,
+      "duration": null
+    }
+  ],
+  "output_file": "C:\\Users\\cds-s\\PycharmProjects\\video_ad_inserter\\media\\output_test.mp4",
+  "transitions": true,
+  "fade_duration": 0.5
+}
+
+
